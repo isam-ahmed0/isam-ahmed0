@@ -7,14 +7,23 @@
 
 Arch user btw.
 I use Cachyos+Niri and plasma.
+
 My apps:
+
 Mpv
+
 Rayburst
+
 Zen
+
 Prism launcher
+
 Vesktop
+
 Vscodium
+
 Faugus
+
 and more
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,python,blender,wordpress,arch,godot,cloudflare,bots,linux&perline=7)](https://skillicons.dev)
